@@ -128,77 +128,68 @@
       "name": "辣椒资源黄黄"
     },
     "28": {
-      "api": "https://p2100.net/api.php/provide/vod",
-      "name": "飘零资源",
-      "detail": "https://p2100.net"
-    },
-    "29": {
       "api": "https://collect.wolongzyw.com/api.php/provide/vod",
       "name": "TV-卧龙点播",
       "detail": "https://collect.wolongzyw.com",
       "is_adult": false
     },
-    "30": {
+    "29": {
       "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
       "name": "卧龙|点播"
     },
-    "31": {
+    "30": {
       "api": "https://wolongzyw.com/api.php/provide/vod",
       "name": "卧龙资源"
     },
-    "32": {
+    "31": {
       "name": "🎬360 资源",
       "api": "https://360zyzz.com/api.php/provide/vod",
       "detail": "https://360zy.com"
     },
-    "33": {
+    "32": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
     },
-    "34": {
+    "33": {
       "api": "https://tyyszy.com/api.php/provide/vod",
       "name": "天涯资源"
     },
-    "35": {
+    "34": {
       "api": "https://ikunzyapi.com/api.php/provide/vod/at/json",
       "name": "ikun资源",
       "detail": ""
     },
-    "36": {
+    "35": {
       "api": "https://collect.wolongzy.cc/api.php/provide/vod",
       "name": "TV-卧龙资源",
       "detail": ""
     },
-    "37": {
+    "36": {
       "api": "https://tyyszyapi.com/api.php/provide/vod",
       "name": "天涯影视资源",
       "detail": "https://tyyszyapi.com"
     },
-    "38": {
+    "37": {
       "api": "https://tyyszyapi.com/api.php/provide/vod/",
       "name": "天涯影视"
     },
-    "39": {
+    "38": {
       "api": "https://tyyszyapi.com/api.php/provide/vod/?ac=list",
       "name": "天涯影视",
       "detail": ""
     },
-    "40": {
+    "39": {
       "api": "http://ffzy5.tv/api.php/provide/vod",
       "name": "非凡影视",
       "detail": "http://ffzy5.tv"
     },
-    "41": {
+    "40": {
       "api": "https://360zy.com/api.php/provide/vod",
       "name": "360资源"
     },
-    "42": {
+    "41": {
       "api": "https://www.qiqidys.com/api.php/provide/vod/",
       "name": "七七影视"
-    },
-    "43": {
-      "api": "https://p2100.net/api.php/provide/vod/",
-      "name": "飘零|点播"
     }
   },
   "custom_category": [
