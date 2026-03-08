@@ -128,66 +128,42 @@
       "name": "辣椒资源黄黄"
     },
     "28": {
-      "api": "https://collect.wolongzyw.com/api.php/provide/vod",
-      "name": "TV-卧龙点播",
-      "detail": "https://collect.wolongzyw.com",
-      "is_adult": false
-    },
-    "29": {
-      "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
-      "name": "卧龙|点播"
-    },
-    "30": {
-      "api": "https://wolongzyw.com/api.php/provide/vod",
-      "name": "卧龙资源"
-    },
-    "31": {
       "name": "🎬360 资源",
       "api": "https://360zyzz.com/api.php/provide/vod",
       "detail": "https://360zy.com"
     },
-    "32": {
+    "29": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
     },
-    "33": {
+    "30": {
       "api": "https://tyyszy.com/api.php/provide/vod",
       "name": "天涯资源"
     },
-    "34": {
+    "31": {
       "api": "https://ikunzyapi.com/api.php/provide/vod/at/json",
       "name": "ikun资源",
       "detail": ""
     },
-    "35": {
-      "api": "https://collect.wolongzy.cc/api.php/provide/vod",
-      "name": "TV-卧龙资源",
-      "detail": ""
-    },
-    "36": {
+    "32": {
       "api": "https://tyyszyapi.com/api.php/provide/vod",
       "name": "天涯影视资源",
       "detail": "https://tyyszyapi.com"
     },
-    "37": {
+    "33": {
       "api": "https://tyyszyapi.com/api.php/provide/vod/",
       "name": "天涯影视"
     },
-    "38": {
+    "34": {
       "api": "https://tyyszyapi.com/api.php/provide/vod/?ac=list",
       "name": "天涯影视",
       "detail": ""
     },
-    "39": {
-      "api": "http://ffzy5.tv/api.php/provide/vod",
-      "name": "非凡影视",
-      "detail": "http://ffzy5.tv"
-    },
-    "40": {
+    "35": {
       "api": "https://360zy.com/api.php/provide/vod",
       "name": "360资源"
     },
-    "41": {
+    "36": {
       "api": "https://www.qiqidys.com/api.php/provide/vod/",
       "name": "七七影视"
     }
