@@ -95,42 +95,38 @@
       "name": "快车资源"
     },
     "21": {
-      "api": "https://luna-config.chimiansw.workers.dev/?url=https://apilj.com/api.php/provide",
-      "name": "辣椒资源黄黄"
-    },
-    "22": {
       "name": "🎬360 资源",
       "api": "https://360zyzz.com/api.php/provide/vod",
       "detail": "https://360zy.com"
     },
-    "23": {
+    "22": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
     },
-    "24": {
+    "23": {
       "api": "https://tyyszy.com/api.php/provide/vod",
       "name": "天涯资源"
     },
-    "25": {
+    "24": {
       "api": "https://ikunzyapi.com/api.php/provide/vod/at/json",
       "name": "ikun资源",
       "detail": ""
     },
-    "26": {
+    "25": {
       "api": "https://tyyszyapi.com/api.php/provide/vod",
       "name": "天涯影视资源",
       "detail": "https://tyyszyapi.com"
     },
-    "27": {
+    "26": {
       "api": "https://tyyszyapi.com/api.php/provide/vod/",
       "name": "天涯影视"
     },
-    "28": {
+    "27": {
       "api": "https://tyyszyapi.com/api.php/provide/vod/?ac=list",
       "name": "天涯影视",
       "detail": ""
     },
-    "29": {
+    "28": {
       "api": "https://www.qiqidys.com/api.php/provide/vod/",
       "name": "七七影视"
     }
