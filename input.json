@@ -96,33 +96,24 @@
       "detail": "https://360zy.com"
     },
     "21": {
-      "api": "https://ikunzyapi.com/api.php/provide/vod",
-      "name": "iKun资源"
-    },
-    "22": {
       "api": "https://tyyszy.com/api.php/provide/vod",
       "name": "天涯资源"
     },
-    "23": {
-      "api": "https://ikunzyapi.com/api.php/provide/vod/at/json",
-      "name": "ikun资源",
-      "detail": ""
-    },
-    "24": {
+    "22": {
       "api": "https://tyyszyapi.com/api.php/provide/vod",
       "name": "天涯影视资源",
       "detail": "https://tyyszyapi.com"
     },
-    "25": {
+    "23": {
       "api": "https://tyyszyapi.com/api.php/provide/vod/",
       "name": "天涯影视"
     },
-    "26": {
+    "24": {
       "api": "https://tyyszyapi.com/api.php/provide/vod/?ac=list",
       "name": "天涯影视",
       "detail": ""
     },
-    "27": {
+    "25": {
       "api": "https://www.qiqidys.com/api.php/provide/vod/",
       "name": "七七影视"
     }
