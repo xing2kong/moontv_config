@@ -112,10 +112,6 @@
       "api": "https://tyyszyapi.com/api.php/provide/vod/?ac=list",
       "name": "天涯影视",
       "detail": ""
-    },
-    "25": {
-      "api": "https://www.qiqidys.com/api.php/provide/vod/",
-      "name": "七七影视"
     }
   },
   "custom_category": [
